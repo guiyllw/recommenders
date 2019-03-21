@@ -1,2 +1,5 @@
 # Ignoring jupyter checkpoints
 .ipynb_checkpoints
+
+# Ignoring saved models
+models
